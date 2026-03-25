@@ -1,0 +1,21 @@
+# F1 Products Scraper Task
+- [x] Investigate ESPN F1 Schedule page structure and extract 2025 race weekends.
+- [x] Write a scraper combining F1 schedule and Amazon data for Red Bull.
+- [x] Combine data into second CSV `redbull_product_repeats_and_results.csv`.
+- [x] Refactor generic Amazon scraping to accept search terms (McLaren, Ferrari).
+- [x] Refactor race results grouping to accept specific drivers (McLaren: NOR/PIA, Ferrari: LEC/HAM).
+- [x] Generate 4 new CSVs (base products + repeats/results for McLaren).
+- [x] Generate 4 new CSVs (base products + repeats/results for Ferrari).
+- [x] Investigate ESPN race result team string for Racing Bulls (e.g. "RB", "VCARB", etc.).
+- [x] Update `generate_team_results.py` to support variable numbers of drivers per team (Red Bull needs 4: VER, LAW, TSU, HAD).
+- [x] Regenerate `redbull_product_repeats_and_results.csv` with 4 driver columns.
+- [x] Add `Team Cumulative Placement` tracking (sum of valid positions) per race.
+- [x] Add `Team Placement Change` tracking (difference from previous race).
+- [x] Regenerate all team CSVs with the new cumulative tracking columns.
+- [x] Refactor scripts so that the secondary script preserves `Product Rank`.
+- [x] Refactor secondary script to output to a single consolidated `{team}_combined_f1_data.csv`.
+- [x] Remove the intermediate `_f1_products_2025` and `_product_repeats_and_results` CSV files.
+- [x] Investigate ESPN 2025 driver abbreviations for Mercedes, Aston Martin, Sauber, Alpine, Haas, Williams.
+- [x] Add the 6 remaining teams to `f1_team_scraper.py` loop.
+- [x] Add the 6 remaining team configs and drivers to `generate_team_results.py`.
+- [x] Run both scripts to generate all 6 remaining `{team}_combined_f1_data.csv` files.
