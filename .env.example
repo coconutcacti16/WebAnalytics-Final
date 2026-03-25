@@ -1,0 +1,9 @@
+# Snowflake Connection Credentials
+SNOWFLAKE_ACCOUNT=your_account
+SNOWFLAKE_USER=your_user
+SNOWFLAKE_PASSWORD=your_password
+SNOWFLAKE_WAREHOUSE=your_warehouse
+SNOWFLAKE_ROLE=your_role
+SNOWFLAKE_DATABASE=CAMPUS_TRENDS_DB
+# Scraper Configuration
+SCRAPER_URL=https://example.edu/events
