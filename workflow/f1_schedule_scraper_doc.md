@@ -2,7 +2,7 @@
 
 This document explains how to execute the data collection pipeline for the F1 E-Commerce Pricing Intelligence Dashboard.
 
-The core pipeline consists of two main Python scripts located in the `F1 Schedule:Placement:Products scraper` subdirectory.
+The core pipeline consists of two main Python scripts located in the `F1 Schedule:Placement:Products scraper` subdirectory. It is specifically designed to collect F1 race schedules, team race results, and Amazon data for top merchandise products.
 
 ## Prerequisites
 - Python 3.8 or newer.
@@ -23,7 +23,7 @@ python f1_team_scraper.py
 ```
 
 **Expected Output:**
-Generates intermediate CSV files named `<team>_f1_products_2025.csv` (e.g., `mercedes_f1_products_2025.csv`) containing current pricing, rank, and upcoming race details.
+Generates intermediate CSV files named `<team>_f1_products_2025.csv` (e.g., `mercedes_f1_products_2025.csv`) containing the extracted Amazon data for top products, including current pricing, rank, and corresponding upcoming race details.
 
 ## Step 2: Combine Team Race Results and Price Analysis
 **Script:** `generate_team_results.py`
