@@ -24,24 +24,30 @@ Demand Score (Hype + Controversy) varies significantly across race weekends, sup
 
 The demand curve shows sharp spikes rather than steady trends, indicating that demand is episodic and driven by standout events rather than consistent weekly engagement.
 
-- Miami GP and Abu Dhabi GP are the highest peaks  
-- Several races (e.g., Austrian, Mexican) show near-zero demand signals  
+- Miami GP and Abu Dhabi GP are the highest peaks
+- Several races (e.g., Austrian, Mexican) show near-zero demand signals
+
+![Demand Signal by Race](https://raw.githubusercontent.com/ft-tanvishah/WebAnalytics-Final/main/demand_signal_by_race.png)
 
 ### 2. Hype vs Controversy Positioning
 
 There are two distinct demand drivers: performance-driven hype (clean wins, strong results) and event-driven controversy (incidents, penalties).
 
-- Most races cluster in low controversy, moderate hype  
-- Monaco GP stands out with high controversy relative to hype  
-- Miami and Abu Dhabi show high hype with low controversy  
+- Most races cluster in low controversy, moderate hype
+- Monaco GP stands out with high controversy relative to hype
+- Miami and Abu Dhabi show high hype with low controversy
+
+![Hype vs Controversy](https://raw.githubusercontent.com/ft-tanvishah/WebAnalytics-Final/main/hype_vs_controversy.png)
 
 ### 3. Sentiment by Aspect
 
 Performance outcomes drive sentiment intensity, while brand mentions provide a stable baseline of engagement.
 
-- Performance aspects are clearly positive  
-- Risk aspects are near neutral or slightly negative  
-- Brand-related aspects (team, driver) are consistently present but moderate in sentiment  
+- Performance aspects are clearly positive
+- Risk aspects are near neutral or slightly negative
+- Brand-related aspects (team, driver) are consistently present but moderate in sentiment
+
+![Sentiment by Aspect](https://raw.githubusercontent.com/ft-tanvishah/WebAnalytics-Final/main/average_sentiment_by_aspect.png)
 
 ## Key Takeaways
 
