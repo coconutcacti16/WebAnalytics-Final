@@ -1,0 +1,51 @@
+# 2025 F1 Reddit Sentiment & Demand Analysis
+
+Using the top 30 Reddit posts per race weekend, we applied aspect-based sentiment analysis (ABSA) to extract drivers of fan attention and construct a demand signal for event-driven merchandise pricing.
+
+## Text Analysis
+
+ABSA on post titles shows that performance-related aspects dominate positive sentiment. This indicates that fan excitement is primarily tied to race outcomes and driver/team performance, while negative events contribute less to sentiment but still appear in discussions.
+
+- **Win** is the strongest positive signal by a large margin  
+- **Team, driver, and pace** are consistently positive but weaker  
+- **Risk-related aspects** (penalty, disqualification) are near neutral or slightly negative  
+
+## Statistical Analysis
+
+Demand Score (Hype + Controversy) varies significantly across race weekends, supporting the hypothesis that fan demand is event-driven and concentrated around key moments rather than evenly distributed across the season.
+
+- A small number of races generate disproportionately high demand signals  
+- Many races cluster near low demand, indicating attention concentration rather than uniform engagement  
+- Controversy contributes less to total demand compared to performance-driven hype  
+
+## Graph Analysis
+
+### 1. Demand Signal by Race
+
+The demand curve shows sharp spikes rather than steady trends, indicating that demand is episodic and driven by standout events rather than consistent weekly engagement.
+
+- Miami GP and Abu Dhabi GP are the highest peaks  
+- Several races (e.g., Austrian, Mexican) show near-zero demand signals  
+
+### 2. Hype vs Controversy Positioning
+
+There are two distinct demand drivers: performance-driven hype (clean wins, strong results) and event-driven controversy (incidents, penalties).
+
+- Most races cluster in low controversy, moderate hype  
+- Monaco GP stands out with high controversy relative to hype  
+- Miami and Abu Dhabi show high hype with low controversy  
+
+### 3. Sentiment by Aspect
+
+Performance outcomes drive sentiment intensity, while brand mentions provide a stable baseline of engagement.
+
+- Performance aspects are clearly positive  
+- Risk aspects are near neutral or slightly negative  
+- Brand-related aspects (team, driver) are consistently present but moderate in sentiment  
+
+## Key Takeaways
+
+- Fan attention is concentrated in a few high-impact race weekends  
+- Performance (wins, results) is the primary driver of positive demand signals  
+- Controversy generates attention but does not strongly increase positive sentiment  
+- Demand signals are event-driven and non-linear across the season  
