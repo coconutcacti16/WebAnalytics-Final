@@ -1,0 +1,115 @@
+Race Date,Race Name,Year,Web Search,News Search,Google Shopping,YouTube Search
+Mar 26 - 28,Bahrain GP,2021,17,18,19,23
+Apr 16 - 18,Emilia Romagna GP,2021,19,18,19,25
+Apr 30 - May 2,Portuguese GP,2021,19,18,19,25
+May 7 - 9,Spanish GP,2021,21,18,22,28
+May 20 - 23,Monaco GP,2021,21,18,22,28
+Jun 4 - 6,Socar Azerbaijan GP,2021,20,20,20,28
+Jun 18 - 20,French GP,2021,20,20,20,28
+Jun 25 - 27,Austrian GP,2021,20,20,20,28
+Jul 2 - 4,Austrian GP 2,2021,21,22,25,31
+Jul 16 - 18,British GP,2021,21,22,25,31
+Jul 30 - Aug 1,Hungarian GP,2021,21,22,25,31
+Aug 27 - 29,Belgian GP,2021,16,17,20,25
+Sep 3 - 5,Dutch GP,2021,21,19,21,30
+Sep 10 - 12,Italian GP,2021,21,19,21,30
+Sep 24 - 26,VTB Russian GP,2021,21,19,21,30
+Oct 8 - 10,Turkish GP,2021,22,20,22,28
+Oct 22 - 24,United States GP,2021,22,20,22,28
+Nov 5 - 7,Mexican GP,2021,24,25,21,31
+Nov 12 - 14,Brazilian GP,2021,24,25,21,31
+Nov 19 - 21,Qatar GP,2021,24,25,21,31
+Dec 3 - 5,Saudi Arabian GP,2021,24,34,22,36
+Dec 10 - 12,Etihad Airways Abu Dhabi GP,2021,24,34,22,36
+Mar 18 - 20,Gulf Air Bahrain GP,2022,36,40,31,35
+Mar 25 - 27,STC Saudi Arabian GP,2022,36,40,31,35
+Apr 7 - 10,Heineken Australian GP,2022,31,32,30,33
+Apr 22 - 24,Rolex Emilia Romagna GP,2022,31,32,30,33
+May 6 - 8,Crypto.com Miami GP,2022,35,34,33,45
+May 20 - 22,Pirelli Spanish GP,2022,35,34,33,45
+May 27 - 29,Monaco GP,2022,35,34,33,45
+Jun 10 - 12,Azerbaijan GP,2022,29,25,28,48
+Jun 17 - 19,AWS Canada GP,2022,29,25,28,48
+Jul 1 - 3,Lenovo British GP,2022,32,32,31,60
+Jul 8 - 10,Rolex Austrian GP,2022,32,32,31,60
+Jul 22 - 24,Lenovo French GP,2022,32,32,31,60
+Jul 29 - 31,Aramco Hungarian GP,2022,32,32,31,60
+Aug 26 - 28,Rolex Belgian GP,2022,23,26,25,39
+Sep 2 - 4,Heineken Dutch GP,2022,23,23,24,41
+Sep 9 - 11,Pirelli Italian GP,2022,23,23,24,41
+Sep 30 - Oct 2,Singapore Air Singapore GP,2022,23,23,24,41
+Oct 6 - 9,Honda Japanese GP,2022,29,36,25,43
+Oct 21 - 23,Aramco United States GP,2022,29,36,25,43
+Oct 28 - 30,Mexico GP,2022,29,36,25,43
+Nov 11 - 13,Heineken Brazil GP,2022,23,21,24,39
+Nov 18 - 20,Etihad Airways Abu Dhabi GP,2022,23,21,24,39
+Mar 3 - 5,Gulf Air Bahrain GP,2023,33,31,30,45
+Mar 17 - 19,STC Saudi Arabian GP,2023,33,31,30,45
+Mar 30 - Apr 2,Rolex Australian GP,2023,33,31,30,45
+Apr 28 - 30,Azerbaijan GP,2023,24,19,25,32
+May 5 - 7,Crypto.com Miami GP,2023,31,28,32,43
+May 26 - 28,Monaco GP,2023,31,28,32,43
+Jun 2 - 4,AWS Spanish GP,2023,26,23,27,39
+Jun 16 - 18,Pirelli Canadian GP,2023,26,23,27,39
+Jun 30 - Jul 2,Rolex Austrian GP,2023,26,23,27,39
+Jul 7 - 9,Aramco British GP,2023,31,33,27,46
+Jul 21 - 23,Qatar Airways Hungarian GP,2023,31,33,27,46
+Jul 28 - 30,MSC Cruises Belgian GP,2023,31,33,27,46
+Aug 25 - 27,Heineken Dutch GP,2023,20,22,25,34
+Sep 1 - 3,Pirelli Italian GP,2023,27,27,26,41
+Sep 15 - 17,Singapore Airlines Singapore GP,2023,27,27,26,41
+Sep 21 - 24,Lenovo Japanese GP,2023,27,27,26,41
+Oct 6 - 8,Qatar Airways Qatar GP,2023,32,31,32,40
+Oct 20 - 22,Lenovo United States GP,2023,32,31,32,40
+Oct 27 - 29,Mexico City GP,2023,32,31,32,40
+Nov 3 - 5,Rolex São Paulo GP,2023,45,53,39,64
+Nov 16 - 19,Heineken Las Vegas GP,2023,45,53,39,64
+Nov 24 - 26,Etihad Airways Abu Dhabi GP,2023,45,53,39,64
+Feb 29 - Mar 2,Gulf Air Bahrain GP,2024,28,32,33,39
+Mar 7 - 9,STC Saudi Arabian GP,2024,36,37,39,52
+Mar 21 - 24,Rolex Australian GP,2024,36,37,39,52
+Apr 4 - 7,MSC Cruises Japanese GP,2024,29,27,38,43
+Apr 18 - 21,Lenovo Chinese GP,2024,29,27,38,43
+May 3 - 5,Crypto.com Miami GP,2024,35,34,46,48
+May 17 - 19,MSC Cruises Emilia Romagna GP,2024,35,34,46,48
+May 24 - 26,Monaco GP,2024,35,34,46,48
+Jun 7 - 9,AWS Canadian GP,2024,29,26,32,41
+Jun 21 - 23,Aramco Spanish GP,2024,29,26,32,41
+Jun 28 - 30,Qatar Airways Austrian GP,2024,29,26,32,41
+Jul 5 - 7,Qatar Airways British GP,2024,31,37,15,46
+Jul 19 - 21,Hungarian GP,2024,31,37,15,46
+Jul 26 - 28,Rolex Belgian GP,2024,31,37,15,46
+Aug 23 - 25,Heineken Dutch GP,2024,21,23,2,33
+Aug 30 - Sep 1,Pirelli Italian GP,2024,21,23,2,33
+Sep 13 - 15,Qatar Airways Azerbaijan GP,2024,28,27,2,41
+Sep 20 - 22,Singapore Airlines Singapore GP,2024,28,27,2,41
+Oct 18 - 20,Pirelli United States GP,2024,29,26,2,34
+Oct 25 - 27,Mexico City GP,2024,29,26,2,34
+Nov 1 - 3,Lenovo São Paulo GP,2024,34,37,2,40
+Nov 21 - 24,Heineken Las Vegas GP,2024,34,37,2,40
+Nov 29 - Dec 1,Qatar Airways Qatar GP,2024,34,37,2,40
+Dec 6 - 8,Etihad Airways Abu Dhabi GP,2024,25,25,2,36
+Mar 13 - 16,Louis Vuitton Australian GPMelbourne Grand Prix Circuit,2025,45,49,2,61
+Mar 20 - 23,Heineken Chinese GPShanghai International Circuit,2025,45,49,2,61
+Apr 3 - 6,Lenovo Japanese GPSuzuka International Racing Course,2025,40,42,2,54
+Apr 11 - 13,Gulf Air Bahrain GPBahrain International Circuit,2025,40,42,2,54
+Apr 18 - 20,STC Saudi Arabian GPJeddah Street Circuit,2025,40,42,2,54
+May 2 - 4,Crypto.com Miami GPMiami International Autodrome,2025,42,44,44,59
+May 16 - 18,AWS Made in Italy Emilia Romagna GPAutodromo Enzo e Dino Ferrari,2025,42,44,44,59
+May 23 - 25,Tag Heuer Monaco GPCircuit de Monaco,2025,42,44,44,59
+May 30 - Jun 1,Aramco Spanish GPMadring,2025,42,44,44,59
+Jun 13 - 15,Pirelli Canadian GPCircuit Gilles-Villeneuve,2025,49,49,58,55
+Jun 27 - 29,MSC Cruises Austrian GPRed Bull Ring,2025,49,49,58,55
+Jul 4 - 6,Qatar Airways British GPSilverstone Circuit,2025,71,62,75,77
+Jul 25 - 27,Moët & Chandon Belgian GPCircuit de Spa-Francorchamps,2025,71,62,75,77
+Aug 1 - 3,Lenovo Hungarian GPHungaroring,2025,37,41,63,49
+Aug 29 - 31,Heineken Dutch GPCircuit Park Zandvoort,2025,37,41,63,49
+Sep 5 - 7,Pirelli Italian GPAutodromo Nazionale Monza,2025,38,34,66,56
+Sep 19 - 21,Qatar Airways Azerbaijan GPBaku City Circuit,2025,38,34,66,56
+Oct 3 - 5,Singapore Airlines Singapore GPMarina Bay Street Circuit,2025,39,36,66,49
+Oct 17 - 19,MSC Cruises United States GPCircuit of the Americas,2025,39,36,66,49
+Oct 24 - 26,Mexico City GPAutodromo Hermanos Rodriguez,2025,39,36,66,49
+Nov 7 - 9,MSC Cruises São Paulo GPAutodromo Jose Carlos Pace,2025,50,54,78,58
+Nov 20 - 22,Heineken Las Vegas GPLas Vegas Street Circuit,2025,50,54,78,58
+Nov 28 - 30,Qatar Airways Qatar GPLosail International Circuit,2025,50,54,78,58
+Dec 5 - 7,Etihad Airways Abu Dhabi GPYas Marina Circuit,2025,48,37,76,56
